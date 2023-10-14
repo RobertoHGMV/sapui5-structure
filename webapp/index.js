@@ -11,15 +11,4 @@ sap.ui.define([
         },
         async: true
     }).placeAt("content");
-
-
-    // var oView = new XMLView({
-    //     viewName: "appstructure.view.App"
-    // });
-
-    // // Registra a view com o administrador de mensagem
-    // sap.ui.getCore().getMessageManager().registerObject(oView);
-
-    // // Mostra a view XML App
-    // oView.placeAt("content");
 });
