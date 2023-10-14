@@ -1,7 +1,6 @@
 sap.ui.define([
-    'sap/ui/core/ComponentContainer',
-    "sap/ui/core/mvc/XMLView"
-], function(ComponentContainer, XMLView) {
+    'sap/ui/core/ComponentContainer'
+], function(ComponentContainer) {
     'use strict';
     
     new ComponentContainer({
